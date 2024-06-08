@@ -29,7 +29,7 @@ libcblas:
 libpq:
 - '16'
 proj:
-- 9.4.0
+- '9.4'
 target_platform:
 - linux-64
 zip_keys:
