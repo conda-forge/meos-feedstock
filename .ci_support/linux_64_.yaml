@@ -23,7 +23,7 @@ geos:
 gsl:
 - '2.7'
 json_c:
-- '0.17'
+- '0.18'
 libcblas:
 - 3.9 *netlib
 libpq:
