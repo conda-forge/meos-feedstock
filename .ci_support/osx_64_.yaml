@@ -23,11 +23,11 @@ geos:
 gsl:
 - '2.7'
 json_c:
-- '0.17'
+- '0.18'
 libcblas:
 - 3.9 *netlib
 libpq:
-- '16'
+- '17'
 macos_machine:
 - x86_64-apple-darwin13.4.0
 proj:
