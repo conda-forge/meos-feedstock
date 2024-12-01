@@ -27,7 +27,7 @@ json_c:
 libcblas:
 - 3.9 *netlib
 libpq:
-- '16'
+- '17'
 proj:
 - '9.5'
 target_platform:
