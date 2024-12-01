@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/MobilityDB/MobilityDB/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 169f679f2715ea39ba22a6d85c9417e74e16fe43b963db4190f96157e7178491
+  sha256: 16148e8eba25fc364ed8feb00d3359f0a6249eb0a6e7c54c53598c73b87ba391
 
 build:
   skip: true  # [win]
