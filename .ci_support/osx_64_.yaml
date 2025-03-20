@@ -25,13 +25,13 @@ gsl:
 json_c:
 - '0.18'
 libcblas:
-- 3.9 *netlib
+- 3.9.* *netlib
 libpq:
 - '17'
 macos_machine:
 - x86_64-apple-darwin13.4.0
 proj:
-- '9.5'
+- '9.6'
 target_platform:
 - osx-64
 zip_keys:
