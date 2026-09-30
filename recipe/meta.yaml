@@ -1,5 +1,5 @@
 {% set name = "meos" %}
-{% set version = "1.2.0" %}
+{% set version = "1.3.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/MobilityDB/MobilityDB/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 16148e8eba25fc364ed8feb00d3359f0a6249eb0a6e7c54c53598c73b87ba391
+  sha256: 6fad822e49c765e4c10307493d9b85d1a8a1faa1b124cce812bb3e8521bd383c
 
 build:
   skip: true  # [win]
